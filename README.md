@@ -15,7 +15,7 @@
 
 ## Running Tests
  To run all tests:
-    ```sh
+    ```
     npx playwright test --project=chromium
     ```
 
